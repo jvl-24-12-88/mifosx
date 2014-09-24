@@ -35,4 +35,6 @@ public interface ConfigurationDomainService {
 
     Long retrieveGraceOnPenaltyPostingPeriod();
     
+    Long retrieveOpeningBalancesContraAccount();
+    
 }
